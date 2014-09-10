@@ -1,11 +1,11 @@
-S T R U C T U R A L-A N A L Y S I S-V I E W
+STRUCTURAL ANALYSIS VIEW
 =====================================================
 
 
 Overview and Documents
 =====================================================
 
-- see directory Descriptions --> StructuralAnalysisView_Overview.pdf or jpg
+- see directory Descriptions --> StructuralAnalysisView_Overview.jpg (jpg has built in Preview in github!)
 
 - Net: http://www.buildingsmart-tech.org/specifications/ifc-view-definition/structural-analysis-view
 
