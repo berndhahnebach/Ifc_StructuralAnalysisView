@@ -1,23 +1,22 @@
-S T R U C T U R A L - A N A L Y S I S - V I E W
+S T R U C T U R A L-A N A L Y S I S-V I E W
 =====================================================
 
 
 Overview and Documents
 =====================================================
 
-see directory Descriptions --> StructuralAnalysisView_Overview.pdf
+- see directory Descriptions --> StructuralAnalysisView_Overview.pdf or jpg
 
-more documents could be downloaded here:
-http://www.buildingsmart-tech.org/specifications/ifc-view-definition/structural-analysis-view
+- Net: http://www.buildingsmart-tech.org/specifications/ifc-view-definition/structural-analysis-view
 
 
 
 IfcStructuralMember
 =====================================================
 
-http://www.buildingsmart-tech.org/ifc/IFC2x4/beta1/html/ifcstructuralanalysisdomain/lexical/ifcstructuralmember.htm
+- Net: http://www.buildingsmart-tech.org/ifc/IFC2x4/beta1/html/ifcstructuralanalysisdomain/lexical/ifcstructuralmember.htm
 
-ABSTRACT SUPERTYPE OF   (ONEOF(IfcStructuralCurveMember, IfcStructuralSurfaceMember)) 
+_ ABSTRACT SUPERTYPE OF   (ONEOF(IfcStructuralCurveMember, IfcStructuralSurfaceMember)) 
 
 
 
