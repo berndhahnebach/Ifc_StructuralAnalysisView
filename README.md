@@ -42,3 +42,23 @@ IfcStructuralSurfaceMember
   which consists of one IfcFaceSurface, representing the reference surface of the surface member. 
   See definitions at IfcStructuralItem for further specifications.
 
+
+View StructuralAnalsysiView geometry with IfcQuery
+-----------------------------------------------------
+- Windows, OSX --> https://github.com/ifcquery/ifcplusplus
+- Linux --> https://github.com/berndhahnebach/ifcplusplus
+- with C++ this can be used to read and write StructuralAnalsysiView
+
+
+View StructuralAnalsysiView geometry with IfcQuery
+-----------------------------------------------------
+- FreeCAD with IfcOpenShell --> https://freecadweb.org/
+- IfcOpenShell can be used to read and write IfcStructuralAnalysisView with Python (standalone or inside FreeCAD) --> https://github.com/IfcOpenShell/IfcOpenShell
+
+
+Proprietary viewers and libraries
+-----------------------------------------------------
+- there might be some proprietary viewer and libraries out there, but I do not know any.
+- lot of structural engineering software can import SructuralAnalysisView, but they import and convert the objects into their objects.
+
+
