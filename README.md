@@ -50,9 +50,9 @@ View StructuralAnalsysiView geometry with IfcQuery
 - with C++ this can be used to read and write StructuralAnalsysiView
 
 
-View StructuralAnalsysiView geometry with IfcQuery
+View StructuralAnalsysiView geometry with FreeCAD
 -----------------------------------------------------
-- FreeCAD with IfcOpenShell --> https://freecadweb.org/
+- FreeCAD with IfcOpenShell (I implemented an importer just for the geometry entities) --> https://freecadweb.org/
 - IfcOpenShell can be used to read and write IfcStructuralAnalysisView with Python (standalone or inside FreeCAD) --> https://github.com/IfcOpenShell/IfcOpenShell
 
 
